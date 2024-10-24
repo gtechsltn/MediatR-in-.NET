@@ -1,0 +1,6 @@
+@MediatRPriorityNotifications_HostAddress = http://localhost:5218
+
+GET {{MediatRPriorityNotifications_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
